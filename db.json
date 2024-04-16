@@ -34,13 +34,15 @@
       "id": 6,
       "description": "Beautiful couch",
       "image": "./images/couch.jpg",
-      "location": "Bay Ridge"
+      "location": "Bay Ridge",
+      "favorite": true
     },
     {
       "id": 7,
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
-      "location": "East Flatbush"
+      "location": "East Flatbush",
+      "favorite": false
     }
   ]
 }
